@@ -110,6 +110,6 @@ Developed as part of the CodeAlpha Python Programming Internship.
 
 Try the Student Support FAQ Chatbot:
 
-👉 **[Launch Student Support Chatbot](YOUR_STREAMLIT_APP_URL)**
+👉 [Launch Student Support Chatbot] https://student-support-chatbot-kawya.streamlit.app/
 
 Experience AI-powered student support with FAQ matching and Gemini AI integration.
